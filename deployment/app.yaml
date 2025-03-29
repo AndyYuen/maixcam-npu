@@ -1,0 +1,10 @@
+files:
+  - main.py
+  - robots_cv181x_int8_sym.cvimodel
+  - robots.mud
+id: rbrobot
+name: rbrobot
+version: 1.0.0
+author: Andy Yuen
+icon: ''
+desc: Identifies a blue and a red robot.
